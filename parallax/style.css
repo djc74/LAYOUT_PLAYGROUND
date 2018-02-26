@@ -1,0 +1,20 @@
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-image: url("images/milkovi-414159-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.scroller {
+  background-color: red;
+  font-size: 60px;
+  height: 200px;
+  padding-top: 100px;
+  text-align: center;
+}
